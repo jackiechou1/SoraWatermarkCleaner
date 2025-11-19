@@ -5,13 +5,16 @@ English | [中文](README-zh.md)
 This project provides an elegant way to remove the sora watermark in the sora2 generated videos. 
 
 
+
+
+
 <table>
   <tr>
     <td width="20%">
       <strong>Case1(25s)</strong>
     </td>
     <td width="80%">
-      <video src="https://github.com/user-attachments/assets/6980189e-b3e0-4fca-8a21-497b6beb6ef0" 
+      <video src="https://github.com/user-attachments/assets/55f4e822-a356-4fab-a372-8910e4cb3c28" 
              width="100%" controls></video>
     </td>
   </tr>
